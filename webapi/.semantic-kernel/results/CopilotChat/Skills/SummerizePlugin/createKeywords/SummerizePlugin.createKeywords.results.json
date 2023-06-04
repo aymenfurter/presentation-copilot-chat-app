@@ -1,0 +1,503 @@
+{
+    "skillName": "SummerizePlugin",
+    "functionName": "createKeywords",
+    "description": "Do not use.",
+    "filePath": "CopilotChat\\Skills\\SummerizePlugin\\createKeywords\\skprompt.txt",
+    "results": [
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of themes. Don't write anything else.",
+                "durationInMilliseconds": 1303.5407,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "Langchain, AI Safety.",
+                "chatCompletionResult": "Langchain, AI Safety."
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of themes. Don't write anything else.",
+                "durationInMilliseconds": 1121.4304,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "Langchain, AI Safety.",
+                "chatCompletionResult": "Langchain, AI Safety."
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of themes. Don't write anything else.",
+                "durationInMilliseconds": 1022.326,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "Langchain, AI Safety.",
+                "chatCompletionResult": "Langchain, AI Safety."
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of themes.  ",
+                "durationInMilliseconds": 2361.8664,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "Sure, I can help you with that. Here are some themes we can discuss:\r\n\r\n1. Langchain\r\n2. AI Safety",
+                "chatCompletionResult": "Sure, I can help you with that. Here are some themes we can discuss:\r\n\r\n1. Langchain\r\n2. AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of themes. ",
+                "durationInMilliseconds": 2680.6187,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "Sure, I can help you with that. Here are some themes we can discuss:\r\n\r\n1. Langchain\r\n2. AI Safety",
+                "chatCompletionResult": "Sure, I can help you with that. Here are some themes we can discuss:\r\n\r\n1. Langchain\r\n2. AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of themes. Only use keywords.",
+                "durationInMilliseconds": 1162.3021,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, Langchain, AI Safety",
+                "chatCompletionResult": "presentation, Langchain, AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of themes.",
+                "durationInMilliseconds": 3438.862,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "Sure, I can help you with that. Here are some possible themes we can discuss:\r\n\r\n1. Langchain\r\n2. AI Safety\r\n\r\nIs there anything specific you would like to know or discuss about these topics?",
+                "chatCompletionResult": "Sure, I can help you with that. Here are some possible themes we can discuss:\r\n\r\n1. Langchain\r\n2. AI Safety\r\n\r\nIs there anything specific you would like to know or discuss about these topics?"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract the most important technology / IT related points. ",
+                "durationInMilliseconds": 1375.3695,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety, technology, IT",
+                "chatCompletionResult": "presentation, langchain, AI Safety, technology, IT"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract the most important topics that the people want to hear about in the presentation. ",
+                "durationInMilliseconds": 1195.7301,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety",
+                "chatCompletionResult": "presentation, langchain, AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract the most important topics that the people want to hear about in the presentation. ",
+                "durationInMilliseconds": 1482.6491,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety",
+                "chatCompletionResult": "presentation, langchain, AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract the most important topics of the above text describing potential topics to cover in the a presentation.  ",
+                "durationInMilliseconds": 1114.5997,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety",
+                "chatCompletionResult": "presentation, langchain, AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract the most important topics of the above text describing potential topics to cover in the a presentation.  ",
+                "durationInMilliseconds": 1169.7465,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety",
+                "chatCompletionResult": "presentation, langchain, AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract the most important topics of the above text.",
+                "durationInMilliseconds": 1192.5106,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety",
+                "chatCompletionResult": "presentation, langchain, AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract the most important topics of the above text.",
+                "durationInMilliseconds": 1143.4948,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety",
+                "chatCompletionResult": "presentation, langchain, AI Safety"
+            }
+        },
+        {
+            "completionConfig": {
+                "label": "gpt-3.5-turbo-0301",
+                "aiService": "OpenAI",
+                "deploymentOrModelId": "gpt-3.5-turbo-0301",
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "requestSettings": {
+                "temperature": 0,
+                "topP": 0,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0,
+                "maxTokens": 0,
+                "stopSequences": []
+            },
+            "variables": [
+                {
+                    "key": "INPUT",
+                    "value": "I really look forward to the presentation. I would like to discuss langchain and AI Safety."
+                }
+            ],
+            "output": {
+                "prompt": "I really look forward to the presentation. I would like to discuss langchain and AI Safety. \r\n\r\nReply using comma-seperated list of keywords. Extract up to 3 topics of the above text.",
+                "durationInMilliseconds": 1510.7271,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "presentation, langchain, AI Safety",
+                "chatCompletionResult": "presentation, langchain, AI Safety"
+            }
+        }
+    ]
+}

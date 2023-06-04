@@ -1,0 +1,3 @@
+{{$INPUT}} 
+
+Highlight in your own words based on the keywords above what the users are interested in today's presentation. Max 2 sentences.
